@@ -46,8 +46,8 @@ Make sure you have installed:
 
 ### 1. Clone the repo
 ```bash
-git clone <your-repo-url>
-cd guestbook
+git clone https://github.com/Sui-Developer-Program/C3_AlbertArt10.git
+cd C3_AlbertArt10
 ```
 
 ### 2. Setup backend (smart contract)
